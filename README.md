@@ -70,20 +70,7 @@ W repozytorium znajdują się:
 - `images/` – wybrane wykresy,
 - `README.md` – opis projektu,
 - `requirements.txt` – lista bibliotek
-  
-Pliki w folderze `src`:
 
-- `01_load_data.py`
-- `02_data_cleaning.py`
-- `03_eda.py`
-- `04_skill_extraction.py`
-- `05_text_vectorization.py`
-- `06_job_clustering.py`
-- `07_match_score.py`
-
-Plik aplikacji:
-
-- `app/streamlit_app.py`
 
 ## Przygotowanie danych
 
