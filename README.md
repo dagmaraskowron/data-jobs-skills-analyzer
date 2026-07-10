@@ -70,7 +70,7 @@ W repozytorium znajdują się:
 - `images/` – wybrane wykresy,
 - `README.md` – opis projektu,
 - `requirements.txt` – lista bibliotek
-- 
+  
 Pliki w folderze `src`:
 
 - `01_load_data.py`
