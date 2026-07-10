@@ -193,7 +193,7 @@ Liczba ofert w grupach:
 | 2 | 57 |
 | 3 | 186 |
 
-Jedna z grup zawierała głównie oferty bez podanych umiejętności, co pokazuje ograniczenie datasetu.
+Jedna z grup zawierała głównie oferty bez podanych umiejętności, co pokazuje ograniczenie zbioru danych.
 
 ### Liczba ofert w grupach
 
