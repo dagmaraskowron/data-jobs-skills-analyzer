@@ -61,17 +61,6 @@ W projekcie wykorzystałam:
 - joblib,
 - Streamlit.
 
-## Struktura projektu
-
-W repozytorium znajdują się:
-
-- `src/` – pliki z analizą danych i przetwarzaniem tekstu,
-- `app/` – aplikacja Streamlit,
-- `images/` – wybrane wykresy,
-- `README.md` – opis projektu,
-- `requirements.txt` – lista bibliotek
-
-
 ## Przygotowanie danych
 
 W pierwszym kroku dane zostały wczytane i sprawdzone pod kątem brakujących wartości oraz duplikatów.
